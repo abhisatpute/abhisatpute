@@ -9,11 +9,10 @@
 - 📫 How to reach me abhisatpute238@gmail.com
 
 - 🔹 Skills
-Data Analysis: SQL, Excel, Power BI, Tableau, Python (Pandas, Matplotlib, Seaborn)
 
-Database Management: MySQL, Postgresql
-
-Visualization & Reporting: Power BI, Tableau, Excel
+    - Data Analysis: SQL, Excel, Power BI, Tableau, Python (Pandas, Matplotlib, Seaborn)
+    - Database Management: MySQL, Postgresql
+    - Visualization & Reporting: Power BI, Tableau, Excel
 
 <!---
 abhisatpute/abhisatpute is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
