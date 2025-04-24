@@ -10,7 +10,6 @@
 
 - 🔹 Skills
 Data Analysis: SQL, Excel, Power BI, Tableau, Python (Pandas, Matplotlib, Seaborn)
-
 Database Management: MySQL, Postgresql
 Visualization & Reporting: Power BI, Tableau, Excel
 
