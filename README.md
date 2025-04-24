@@ -1,3 +1,6 @@
+🚀 Aspiring Data Analyst | SQL, Excel, Power BI, Tableau, Python
+📊 Passionate about turning raw data into meaningful insights
+
 - 👋 Hi, I’m @abhisatpute
 - 👀 I’m interested in Data Analyst 
 - 🌱 I’m currently learning data science & Data analysts 
