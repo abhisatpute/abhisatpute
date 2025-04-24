@@ -14,6 +14,14 @@
     - Database Management: MySQL, Postgresql
     - Visualization & Reporting: Power BI, Tableau, Excel
 
+📜 Certifications
+✅ Data Analyst Certification – Spark IT
+
+✅ Data Analytics with Python – Cognative class ai
+
+✅ Power bi job stimulation -pwc
+
+✅ Data Analytics job stimulation  – Deloitte
 <!---
 abhisatpute/abhisatpute is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
